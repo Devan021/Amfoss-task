@@ -16,6 +16,6 @@
    
    __MY WEBSITE LINK__
      
-     (devan021.github.io)
+     devan021.github.io
      
     
