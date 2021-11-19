@@ -1,6 +1,6 @@
 # Creating a personal website
 
- ** This task was fun but it took me some time to do it ,but the task is not that hard as it seems**
+ **This task was fun but it took me some time to do it ,but the task is not that hard as it seems**
   
  ## Road to My First Personal Website
  
@@ -11,11 +11,11 @@
    Step 4: I Edited the index.md file to create a blogpost and renamed it to blog.md
    Step 5: Next my repo needed a index.md inorder to print my first page in my website so i created one index.md file
            and wrote the commands to display the title and matter
-   Step 6: Now my website was completed**
-      
+   Step 6: Now my website was completed
+       The tutorial is used for creating this website is [link](https://youtu.be/qZsgPgGdOzQ)**      
+   
    __MY WEBSITE LINK__
      
-     [link](devan021.github.io)
+     (devan021.github.io)
      
-     * The tutorial is used for creating this website was (https://youtu.be/qZsgPgGdOzQ)*
-      **Thank you**
+    
