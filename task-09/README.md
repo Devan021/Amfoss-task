@@ -4,7 +4,7 @@
   
  ## Road to My First Personal Website
  
- **Step 1: I went to (https://https://jekyllthemes.io) and downloaded a personal website theme
+ **Step 1: I went to (https://jekyllthemes.io) and downloaded a personal website theme
    Step 2: Downloading the theme lead me to a jkyll repo in github i forked the repo into my account(Devan021),
    i have made the forked repo public so u can refer to it*
    Step 3: I Edited the config.yml file and added the title for my website ,header and rest of the matters
