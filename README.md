@@ -1,6 +1,6 @@
 # Amfoss-task
 # Task submisson  repository 
-**I am Devanandhan Sp From Trivandrum,Kerala ,fresheer at Amrita School of Engineering(CSE 2021)**
+**I am Devanandhan Sp From Trivandrum,Kerala ,fresher at Amrita School of Engineering(CSE 2021)**
 **Task List**|**Description**|**Status
 -------------|---------------|--------------
 [Task-00](https://github.com/devan021/amfoss-tasks/tree/master/task-00)|Installing Ubuntu|Completed
