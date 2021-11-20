@@ -13,7 +13,7 @@ Task submisson  repository
 [Task-07](https://github.com/devan021/amfoss-tasks/tree/master/task-07)|Rich Scraper|Didnt Attempt yet
 [Task-08](https://github.com/devan021/amfoss-tasks/tree/master/task-08)|JSExplorer|Attempted
 [Task-09](https://github.com/devan021/amfoss-tasks/tree/master/task-09)|Setup a Personal Website|Completed
-[Task-10](https://github.com/devan021/amfoss-tasks/tree/master/task-10)|CS50|Not Attempted till yet
+[Task-10](https://github.com/devan021/amfoss-tasks/tree/master/task-10)|CS50|Didnt Attempt yet
 [Task-11](https://github.com/devan021/amfoss-tasks/tree/master/task-11)|Poster Design|Completed
 [Task-12](https://github.com/devan021/amfoss-tasks/tree/master/task-12)|Make the Block|Attempted
 [Task-13](https://github.com/devan021/amfoss-tasks/tree/master/task-13)|Circuit Design(Arduino)|Didnt Attempt yet
