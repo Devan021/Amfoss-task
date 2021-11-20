@@ -1,0 +1,2 @@
+print("The only primary that ends with digit 5 is",'5')
+print("5'")

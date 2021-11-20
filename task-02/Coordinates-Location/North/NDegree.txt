@@ -1,0 +1,9 @@
+import cmath
+a= float(2)
+b=float(-5)
+c=float(2)
+d= b*b-(4*a*c)
+print(d)
+degree_sign =(u"\N{DEGREE SIGN}")
+print(d,degree_sign)
+

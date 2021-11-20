@@ -1,0 +1,4 @@
+print("The Minimum age of united states senators is",30)
+d=30.0
+m= d+0.8
+print(m,'"')

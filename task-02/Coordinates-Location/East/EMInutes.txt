@@ -1,0 +1,3 @@
+print("The highest score in cribbage game is",29)
+d=29
+print(d,"'")

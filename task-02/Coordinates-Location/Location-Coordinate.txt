@@ -1,0 +1,29 @@
+import cmath
+a= float(2)
+b=float(-5)
+c=float(2)
+d= b*b-(4*a*c)
+print(d)
+degree_sign =(u"\N{DEGREE SIGN}")
+print(d,degree_sign)
+
+print("The only primary that ends with digit 5 is",'5')
+print("5'")
+print("the largest even number than cant be the sum of odd opposite numbers is",38)
+d= 38
+e= int(d)
+print(e+0.1,'"')
+
+print("the atomic no of osmium is " , 76)
+d=76
+degree_sign =(u"\N{DEGREE SIGN}")
+print(d,degree_sign)
+
+print("The highest score in cribbage game is",29)
+d=29
+print(d,"'")
+
+print("The Minimum age of united states senators is",30)
+d=30.0
+m= d+0.8
+print(m,'"')

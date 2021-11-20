@@ -1,0 +1,4 @@
+print("the atomic no of osmium is " , 76)
+d=76
+degree_sign =(u"\N{DEGREE SIGN}")
+print(d,degree_sign)
