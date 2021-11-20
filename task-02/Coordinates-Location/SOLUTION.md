@@ -1,6 +1,6 @@
 # DETAILED TERMINAL COMMANDS
 
- ** Step1:       mkdir Coordinates-Location
+    Step1:       mkdir Coordinates-Location
     Step2:       cd Coordinates-Location
     Step3:       mkdir North
     Step4:       cd North
@@ -32,11 +32,11 @@
     Step30:      cat EDegree.txt Eminutes.txt ESeconds.txt > EastCoordinate.txt (i moved the EastCoordinate.txt  to Coordinates-Location from East directory)
     Step31:      mv EastCoordinate.txt East.txt(I renamed it)
     Step32:      cat North.txt East.txt > Location-Coordinates.txt
-    Step33:      touch finalcoordinate.txt (now i created a finalcoordinate.txt file to store the values of coordinates)**
+    Step33:      touch finalcoordinate.txt (now i created a finalcoordinate.txt file to store the values of coordinates)
     
     
     
-  ##GIT TERMINAl COMMANDS
+  ##GIT TERMINAL COMMANDS
      
      ** I haved already cloned my repo into my local machine and its in a directory Amfoss-task
        Step1: First i will move the Coordinate-Location directory into Amfoss-task directory 
