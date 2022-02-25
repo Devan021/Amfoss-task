@@ -18,7 +18,7 @@
 [Task-12](https://github.com/devan021/amfoss-tasks/tree/master/task-12)|Make the Block|Completed
 [Task-13](https://github.com/devan021/amfoss-tasks/tree/master/task-13)|Circuit Design(Arduino)|Didnt Attempt yet
 [Task-14](https://github.com/devan021/amfoss-tasks/tree/master/task-14)|Bandit|Completed
-[Task-15](https://github.com/devan021/amfoss-tasks/tree/master/task-15)|Project Euler|Didnt Attempt yet
+[Task-15](https://github.com/devan021/amfoss-tasks/tree/master/task-15)|Project Euler|Did 2 problems
 ## My experience through the tasks
   I havent done much tasks yet cause it was difficult for me do tasks along with academic assignments, but day by day i got adjusted through them ,
   Eventhough i wasnt able to complete much tasks i learnt a decent amount of stuff which my past self didnt know .. these tasks helped me devolop the 
