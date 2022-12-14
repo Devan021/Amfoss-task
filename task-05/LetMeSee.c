@@ -4,7 +4,7 @@
 #include<math.h>
 
 
-void showInput(int);
+void showInput();
 
 //Typos are a cause of huge pain for every coder
 int main(void)
