@@ -1,3 +1,6 @@
  # **UBUNTU INSTALLATION**
  
 **Ubuntu installation was sure tough for me but with the help of tutorials in youtube i was able to do it in less time ,I had 16 gb ram in my pc so i hadnt need to worry about ram ..i also had a 252 gb ssd which i partitioned into 210 gb for ny windows partition and remaining 40 for my ubuntu partition, i also partitioned my hdd (which was 1 tb in size) to 752 gb and 230 gb i used the 230 gb partition for my ubuntu storage .. I downloaded ubuntu from their offical website(https://ubuntu.com/download/desktop) and made the iso into a bootable usb via Poweriso(its a opensource api for creating removable boot media) and finally used the usb to boot via uefi to install ubuntu**
+
+
+Edit: After a year .. I  have used ubuntu for like 7-8 months then ubuntu became easier then i switched to linux mint  for a month further i started learning web development so i switched to fedora for 2 months ... now currently i m learning cyber security along with web  and app development so i m using kali linux  , its a nice open source distro its repo is very huge and has multiple tools so i m happy with it , i also tried arch during these months in virtual box and both as in dual boot  and learned  how to develop a Arch desktop gui too .
