@@ -8,9 +8,9 @@
 [Task-02](https://github.com/devan021/amfoss-tasks/tree/master/task-02)|Begin your journey with Linux and Git|Completed
 [Task-03](https://github.com/devan021/amfoss-tasks/tree/master/task-03)|Programming|Attempted
 [Task-04](https://github.com/devan021/amfoss-tasks/tree/master/task-04)|Aerglo Mars|Completed
-[Task-05](https://github.com/devan021/amfoss-tasks/tree/master/task-05)|Let me C|Almost Completed
+[Task-05](https://github.com/devan021/amfoss-tasks/tree/master/task-05)|Let me C|Completed
 [Task-06](https://github.com/devan021/amfoss-tasks/tree/master/task-06)|Flutter based UI Task|Completed
-[Task-07](https://github.com/devan021/amfoss-tasks/tree/master/task-07)|Rich Scraper|Didnt Attempt yet
+[Task-07](https://github.com/devan021/amfoss-tasks/tree/master/task-07)|Rich Scraper|Completed
 [Task-08](https://github.com/devan021/amfoss-tasks/tree/master/task-08)|JSExplorer|Completed
 [Task-09](https://github.com/devan021/amfoss-tasks/tree/master/task-09)|Setup a Personal Website|Completed
 [Task-10](https://github.com/devan021/amfoss-tasks/tree/master/task-10)|CS50|Attempted
