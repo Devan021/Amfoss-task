@@ -20,6 +20,5 @@
 [Task-14](https://github.com/devan021/amfoss-tasks/tree/master/task-14)|Bandit|Completed
 [Task-15](https://github.com/devan021/amfoss-tasks/tree/master/task-15)|Project Euler|Did 2 problems
 ## My experience through the tasks
-  I havent done much tasks yet cause it was difficult for me do tasks along with academic assignments, but day by day i got adjusted through them ,
-  Eventhough i wasnt able to complete much tasks i learnt a decent amount of stuff which my past self didnt know .. these tasks helped me devolop the 
-  habit of self learning instead of getting spoon feeded like i did in high  school.
+  I couldnt do much of the tasks last year because of my lack of knowledge , I took a year off for learning various stuff and finally when 
+  i came back to do these tasks it was an awesome feeling , the tasks which made me drink water looked easy as python to me and thanks to these amfoss       tasks i grew a lot (in my opinion ) in the last year
