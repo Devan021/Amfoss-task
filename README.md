@@ -6,7 +6,7 @@
 [Task-00](https://github.com/devan021/amfoss-tasks/tree/master/task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/devan021/amfoss-task/tree/master/task-00)|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/devan021/amfoss-tasks/tree/master/task-02)|Begin your journey with Linux and Git|Completed
-[Task-03](https://github.com/devan021/amfoss-tasks/tree/master/task-03)|Programming|Attempted
+[Task-03](https://github.com/devan021/amfoss-tasks/tree/master/task-03)|Programming|Completed
 [Task-04](https://github.com/devan021/amfoss-tasks/tree/master/task-04)|Aerglo Mars|Completed
 [Task-05](https://github.com/devan021/amfoss-tasks/tree/master/task-05)|Let me C|Completed
 [Task-06](https://github.com/devan021/amfoss-tasks/tree/master/task-06)|Flutter based UI Task|Completed
