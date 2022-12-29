@@ -22,26 +22,3 @@
 ## My experience through the tasks
   I couldnt do much of the tasks last year because of my lack of knowledge , I took a year off for learning various stuff and finally when 
   i came back to do these tasks it was an awesome feeling , the tasks which made me drink water looked easy as python to me and thanks to these amfoss       tasks i grew a lot (in my opinion ) in the last year
-
-<style>
-    .heatMap {
-        width: 70%;
-        text-align: center;
-    }
-    .heatMap th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: center;
-    }
-    .heatMap tr:nth-child(1) { background: red; }
-    .heatMap tr:nth-child(2) { background: orange; }
-    .heatMap tr:nth-child(3) { background: green; }
-</style>
-
-<div class="heatMap">
-
-| Everything | in this table | is Centered | and the table will only take up 70% of the screen width | 
-| -- | -- | -- | -- |
-| This | is | a | Red Row |
-| This | is | an | Orange Row |
-| This | is | a | Green Row |
